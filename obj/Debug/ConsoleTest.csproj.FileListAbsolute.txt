@@ -7,3 +7,6 @@ c:\users\qianghua cai\documents\visual studio 2013\Projects\ConsoleTest\ConsoleT
 J:\GIT_QCA\temp\ConsoleTest\bin\Debug\ConsoleTest.exe.config
 J:\GIT_QCA\temp\ConsoleTest\obj\Debug\ConsoleTest.exe
 J:\GIT_QCA\temp\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\GIT_QCA\gittest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\GIT_QCA\gittest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\GIT_QCA\gittest\ConsoleTest\obj\Debug\ConsoleTest.pdb

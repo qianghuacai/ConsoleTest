@@ -18,7 +18,7 @@ namespace ConsoleTest
 
             Console.WriteLine(string.Format("Input: {0}; Output: {1}", test, result));
 
-            Console.WriteLine("Any key ..."); Console.ReadKey(true);
+            Console.WriteLine("Any key to close ..."); Console.ReadKey(true);
         }
 
         static public string GetOrderDate(string orderno)
